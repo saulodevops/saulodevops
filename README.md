@@ -2,7 +2,7 @@
 ## 🧐 Saulo Ramos
 Olá, prazer em conhecê-lo!! Sou um estudante de **computação em nuvem** ☁ movido por *desafios* e com uma paixão enorme por *aprender*.
 
-Atualmente finalizando o programa de contratação ***START BY CAPGEMINI - CLOUD AWS*** e pela ***FUNDAÇÃO FAT - MINHA CHANCE***, o **curso preparatório para ***certificação Google Cloud Engineer - Google Cloud Certified Associate.***  
+Atualmente finalizando o programa de contratação ***START BY CAPGEMINI - CLOUD AWS*** e pela ***FUNDAÇÃO FAT - MINHA CHANCE***, o curso preparatório para ***certificação Google Cloud Engineer - Google Cloud Certified Associate.***  
 
 
 ## Interesses e Atividades 📝
