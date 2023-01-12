@@ -2,8 +2,9 @@
 ## 🧐 Saulo Ramos
 Olá, prazer em conhecê-lo!! Sou um estudante de **desenvolvimento e computação em nuvem** ☁ movido por *desafios* e com uma paixão enorme por *aprender*.
 
-***AWS Certified Cloud Practitioner
-Microsoft Certified Azure Fundamentals***   
+***AWS Certified Cloud Practitioner***
+
+***Microsoft Certified Azure Fundamentals***   
 
 Atualmente na **Formação HTML e CSS Alura**
 
