@@ -10,7 +10,7 @@ Atualmente na **Formação Salesforce Developer - Pragma School**
 
 ## Interesses e Atividades 📝
 
-**Profissional e estudante de tecnologia Salesforce/DevOps/Cloud em desenvolvimento.
+**Profissional e estudante de tecnologia Salesforce/DevOps/Cloud em desenvolvimento.**
 
 Principais interesses e ferramentas:
 - Salesforce DevOps;
