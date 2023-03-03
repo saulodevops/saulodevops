@@ -6,17 +6,17 @@ Olá, prazer em conhecê-lo!! Sou um estudante de **desenvolvimento e computaç�
 
 ***Microsoft Certified Azure Fundamentals***   
 
-Atualmente na **Formação Salesforce Developer - Pragma School**
+Atualmente atuando como **Analista de Infraestrutura na Hackr**
 
 ## Interesses e Atividades 📝
 
-**Profissional e estudante de tecnologia Salesforce/DevOps/Cloud em desenvolvimento.**
+**Profissional e estudante de tecnologia DevOps/Cloud/Analytics em desenvolvimento.**
 
 Principais interesses e ferramentas:
-- Salesforce DevOps;
 - AWS/AZC/GCP;
 - Ferramentas DevOps: GitHub Actions (CI/CD), Docker, Terraform, Linux;
 - Desenvolvimento: HTML/CSS, APEX, Java;
+- Analytics: Google Analytics, Google Tag Manager;
 
 * Sou apaixonado pela **prática de meditação** e inclusive empreendi na área, empreendimento que se tornou um **projeto de ecommerce** onde sou responsável pelo desenvolvimento, controle de versão, esteira CI/CD e gestão.
 
