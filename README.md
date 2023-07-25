@@ -1,24 +1,27 @@
 
 ## 🧐 Saulo Ramos
-Olá, prazer em conhecê-lo!! Sou um estudante de **desenvolvimento e computação em nuvem** ☁ movido por *desafios* e com uma paixão enorme por *aprender*.
+Olá, prazer em conhecê-lo!! Sou um **Analista de infraestrutura Cloud DevOps** ☁ movido por *desafios* e com uma paixão enorme por *aprender*.
 
 ***AWS Certified Cloud Practitioner***
 
-***Microsoft Certified Azure Fundamentals***   
+***Microsoft Certified Azure Fundamentals***
 
-Atualmente atuando como **Analista de Infraestrutura na Hackr**
+***Google Cloud Associate Cloud Engineer***
+
+Atualmente atuando como **Analista de Infraestrutura DevOps na Pay2free**
 
 ## Interesses e Atividades 📝
 
-**Profissional e estudante de tecnologia DevOps/Cloud/Analytics em desenvolvimento.**
+**Profissional e eterno estudante de tecnologia DevOps/Cloud/Analytics em desenvolvimento.**
 
 Principais interesses e ferramentas:
 - AWS/AZC/GCP;
-- Ferramentas DevOps: GitHub Actions (CI/CD), Docker, Terraform, Linux;
-- Desenvolvimento: HTML/CSS, APEX, Java;
-- Analytics: Google Analytics, Google Tag Manager;
+- Ferramentas DevOps: GitHub Actions (CI/CD), Docker, Terraform, Linux, Ansible, Kubernetes;
+- Desenvolvimento: HTML/CSS, Java, JavaScript;
+- Analytics: FBAds, GAds, GA4, GTM;
+- Integração: Make, Zapier, Pluga, n8n;
 
-* Sou apaixonado pela **prática de meditação** e inclusive empreendi na área, empreendimento que se tornou um **projeto de ecommerce** onde sou responsável pelo desenvolvimento, controle de versão, esteira CI/CD e gestão.
+* Sou apaixonado pela **prática de meditação** e inclusive empreendi na área, empreendimento que se tornou um **projeto social** onde sou responsável pelo desenvolvimento, controle de versão, esteira CI/CD e gestão.
 
 ## Tecnologias e Ferramentas com alguma experiência 💻
 
